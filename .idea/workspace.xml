@@ -2,40 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7aa1b35-e0ff-450d-bba2-e79151d13d56" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/components/Box/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/FeatureFlagCard/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/FeaturesSelectInput/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Header/header.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Header/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/PageHeader/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/AntLayout/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/MainLayout/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/MainLayout/main-layout.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/api/feature/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/api/product/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/feature/[id].tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/feature/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/feature/new.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/product/[id].tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/product/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/product/new.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/feature.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/featureFlags.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/product.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/types/feature-flag-filter.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/types/feature-flag.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/types/feature.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/types/product.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/http.util.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/_app.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/api/hello.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/Home.module.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/globals.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,6 +88,7 @@
       <workItem from="1620661378236" duration="4193000" />
       <workItem from="1620682222958" duration="663000" />
       <workItem from="1620846573248" duration="1106000" />
+      <workItem from="1620933020423" duration="387000" />
     </task>
     <servers />
   </component>
