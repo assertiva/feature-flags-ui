@@ -9,6 +9,7 @@ import PageHeader from '@components/PageHeader';
 import FeatureFlagCard from '@components/FeatureFlagCard';
 import Box from '@components/Box';
 import {useMemo} from 'react';
+import FeatureFlagCardRegister from '@components/FeatureFlagCardRegister';
 
 interface ProductViewProps {
     product: Product,
@@ -59,11 +60,20 @@ const ProductDetail = ({product, featureFlags}: ProductViewProps) => {
                 </Box>
             </div>
             <Divider />
-            <List grid={{ gutter: 8, column: 4 }} style={{ justifyItems: 'stretch' }} dataSource={featureFlags} renderItem={(item: FeatureFlag, index) => (
-                <List.Item>
-                    <FeatureFlagCard used={featuresUsed} featureFlagInitial={item} isNewFeatureFlag={index === 0} />
-                </List.Item>
-            )}/>
+            <List grid={{ gutter: 8, column: 4 }} style={{ justifyItems: 'stretch' }} dataSource={featureFlags} renderItem={(item: FeatureFlag, index) => {
+                if (index === 0) {
+                    return (
+                        <List.Item>
+                            <FeatureFlagCardRegister featuresUsed={featuresUsed} productName={product.name} />
+                        </List.Item>
+                    )
+                }
+                return (
+                    <List.Item>
+                        <FeatureFlagCard featureFlagInitial={item} />
+                    </List.Item>
+                )
+            }}/>
 
         </>
     )

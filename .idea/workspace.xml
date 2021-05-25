@@ -2,8 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7aa1b35-e0ff-450d-bba2-e79151d13d56" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Box/Box.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Box/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/FeatureFlagCard/FeatureFlagCard.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/FeatureFlagCard/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/FeatureFlagCardRegister/FeatureFlagCardRegister.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/FeatureFlagCardRegister/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/FeaturesSelectInput/FeatureSelectInput.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/FeaturesSelectInput/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Header/Header.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Header/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/PageHeader/PageHeader.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Box/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/FeatureFlagCard/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/FeaturesSelectInput/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Header/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/PageHeader/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/PageHeader/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/product/[id].tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/product/[id].tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +51,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/types" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
@@ -89,6 +106,7 @@
       <workItem from="1620682222958" duration="663000" />
       <workItem from="1620846573248" duration="1106000" />
       <workItem from="1620933020423" duration="387000" />
+      <workItem from="1621950866148" duration="4968000" />
     </task>
     <servers />
   </component>
